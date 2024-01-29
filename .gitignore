@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.pyproj
+*.pyt
+*.pyi
+*.pyt
+*.pyo
+*.pyc
+__pycache__/
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.py
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
